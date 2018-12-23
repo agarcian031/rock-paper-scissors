@@ -90,3 +90,14 @@ function game() {
         }//end else if
     } //end while 
 } //end function 
+
+function resetGame() {
+    computerScore=0; 
+    playerScore=0; 
+    counter=0; 
+    alert("Game has now reset!"); 
+    opPlayer();
+    game(); 
+}
+
+game(); 
