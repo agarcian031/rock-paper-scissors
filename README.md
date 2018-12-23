@@ -7,3 +7,5 @@ Goal:
 Practice JS basics by creating a Rock, Paper, Scissors game. 
 <br> 
 From The Odin Project's [curriculum](https://www.theodinproject.com/courses/web-development-101/lessons/rock-paper-scissors)
+<br>
+Preview Live [HERE](https://agarcian031.github.io/rock-paper-scissors/)
