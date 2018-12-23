@@ -17,7 +17,7 @@ function opPlayer() {
 
     // If user enters choice, return user choice 
     if (playerChoice=="rock" || playerChoice=="paper" || playerChoice=="scissors") {
-        alert(`You have selected ${playerChoice} as your weapon`); 
+        alert(`You have selected ${playerChoice} as your weapon! \n Get Ready for Battle!`); 
         return playerChoice; 
     }
     // if user does not enter choice, prompt again
